@@ -153,11 +153,11 @@ finish() {
 }
 
 start
-install-linux-packages
-install-linuxbrew
-jetbrains_mono
+# install-linux-packages
+# install-linuxbrew
+# jetbrains_mono
 setup-omz
-install-nodejs
+# install-nodejs
 zshrc
-upgrade-packages
+# upgrade-packages
 finish
